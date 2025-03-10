@@ -1,6 +1,6 @@
 {
-    "SoftwareVersion": "0.1b",
-    "SoftwareUrl":"https://github.com/GJJBEWORK/GJJBE-Executor/raw/refs/heads/main/Release.zip",
+    "SoftwareVersion": "0.2b",
+    "SoftwareUrl":"https://www.dropbox.com/scl/fi/c26qks4y8eoyzihsl4pqt/GJJBE-Executor.zip?rlkey=7jsmrol0rom52k4l6v499fb33&st=2dm9n75g&dl=1",
     "Status":"Up",
-    "Changelog":"[+] added blank"
+    "Changelog":"[+] It Now Actually Works!"
 }
